@@ -1,3 +1,4 @@
+import regeneratorRuntime from "regenerator-runtime";
 import {useEffect,useState} from "react";
 import SearchIcon from "./search.svg";
 import "./App.css";
